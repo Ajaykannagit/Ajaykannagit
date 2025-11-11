@@ -1,82 +1,115 @@
-# 👋 Hi, I'm Ajay Kanna A  
-🎓 B.E. Computer Science and Engineering | Adhiyamaan College of Engineering (Autonomous), Hosur  
-💡 Aspiring Software Engineer | Full-Stack Developer | IoT & AI/ML Enthusiast  
-🌍 Tamil Nadu, India  
+<!-- 🚀 Futuristic GitHub Profile README for Ajay Kanna A -->
+
+<h1 align="center">⚡ AJAY KANNA A ⚡</h1>
+<h3 align="center">Innovator • Full Stack Developer • AI & IoT Visionary</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00F0FF&size=25&center=true&vCenter=true&width=600&lines=Creating+Tomorrow’s+Technology+Today;AI+%7C+IoT+%7C+Full+Stack+%7C+Cloud;Driven+By+Innovation+and+Purpose" />
+</p>
 
 ---
 
-## 🚀 About Me
-I’m a passionate Computer Science Engineer with hands-on experience in **Full-Stack Development**, **Android App Development**, and **IoT Systems**.  
-Driven by curiosity and innovation, I strive to build meaningful, scalable solutions that merge creativity with technology.
+### 🌌 About Me
 
-- 🔭 Currently working on **IoT-based projects** and **Full-Stack applications**  
-- 💻 Completed multiple internships at **HexaTechnologies**, **Cytronix**, and **Technook**  
-- ☁️ Learning **Cloud Computing (NPTEL)** and exploring **AI-Driven automation**  
-- 💬 Ask me about Android Studio, IoT, or full-stack app development  
-- 🌱 Learning **Japanese (N5 Level)** and enhancing creative skills through **drawing and yoga**
+Hi there! I’m **Ajay Kanna A**, an aspiring **Software Engineer** from **Tamil Nadu, India**, passionate about transforming futuristic ideas into real-world innovations.  
+I love building smart, connected, and scalable systems through **AI**, **IoT**, and **Full-Stack Development**.
 
----
-
-## 🧠 Technical Skills
-**Languages:** Java, Python, C/C++, Kotlin  
-**Web:** HTML, CSS, Bootstrap, Flexbox  
-**Frameworks & Tools:** Android Studio, MongoDB, MySQL, SQL, Git, AWS, AI/ML  
-**Core Areas:** Full-Stack Development, IoT, Cloud Computing, Deep Learning for NLP  
+- 🔭 **Currently Working On:** AI-Driven & IoT-Integrated Systems  
+- ⚙️ **Core Skills:** Full-Stack Web, Mobile Apps (Android Studio), Cloud, Embedded IoT  
+- 🧠 **Curiosity Zone:** Generative AI · Machine Learning · Automation  
+- 🌱 **Learning:** Japanese (N5), Deep Learning for NLP, Privacy and security in social media (NPTEL)  
+- 🎨 **Hobbies:** Drawing · Reading(manga and Books) · Yoga · Designing Creative Interfaces  
 
 ---
 
-## 💼 Experience
-**💻 Full-Stack Web Developer Intern – HexaTechnologies (June 2025 – July 2025)**  
-> Built and deployed web applications with end-to-end integration of frontend, backend, and database.  
+### 🧠 Tech Stack
 
-**📱 Mobile App Developer Intern – Technook, Bengaluru (June 2024 – July 2024)**  
-> Developed a **Weather App** using **Android Studio (Kotlin)** during a 1-month internship.  
+#### 💻 Programming
+`Java` · `Python` · `C/C++` · `Kotlin` · `JavaScript`
 
-**🌐 IoT Developer Intern – Cytronix, Karaikudi (Dec 2024 – Jan 2025)**  
-> Built an **Automatic Water Tank Controller** using **ESP32** for real-time automation.  
+#### 🕸️ Web / App
+`HTML5` · `CSS3` · `Bootstrap` · `Flexbox` · `Android Studio`
 
-**🏭 Project Member – Ashok Leyland, Hosur (July 2024 – Jan 2025)**  
-> Team project on an **Automatic Attendance Monitoring System**.
+#### ⚙️ Tools / Cloud / DB
+`MySQL` · `MongoDB` · `AWS` · `Git` · `GitHub` · `IoT (ESP32)`
 
----
-
-## 🧩 Featured Projects
-- **🌦️ Weather App (Technook)** – Built using Android Studio + Kotlin  
-- **💧 Automatic Tank Controller (Cytronix)** – ESP32-based IoT system  
-- **🖥️ Full Stack Web App (HexaTechnologies)** – Deployed full-stack app with backend integration  
-- **🛰️ Wearable Tracking Device (Startup TN)** – Smart wearable built with ESP32  
-- **🤖 AI-Driven Product Generator (NxtWave)** – Automated product creation with AI  
+#### 🤖 Emerging Tech
+`AI/ML` · `Deep Learning for NLP` · `Automation` · `Generative AI`
 
 ---
 
-## 🏅 Certifications
-- **Honor Diploma in Computer Applications (CSC Sivaganga)**  
-- **Java Programming (CSC Sivaganga)**  
-- **NPTEL – Deep Learning for NLP**  
-- **Coursera – Google Generative AI**  
-- **Workshops:** AI Tools, MCP UI/UX, Cloud Computing, Networking  
-- **Podcasts:** 6+ Professional Podcasts on Emerging Tech, Habits, and Data Science  
+### 💼 Experience Timeline
+
+**🧩 HexaTechnologies — Full Stack Web Developer Intern (Jun 2025 – Jul 2025)**  
+→ Built and deployed end-to-end web applications integrating front-end, back-end, and database layers.  
+
+**📱 Technook, Bengaluru — Android Developer Intern (Jun 2024 – Jul 2024)**  
+→ Created a **Weather App** using **Android Studio + Kotlin**, enhancing real-time API integration skills.  
+
+**🌐 Cytronix, Karaikudi — IoT Developer Intern (Dec 2024 – Jan 2025)**  
+→ Designed an **Automatic Water Tank Controller** using **ESP32** for smart home automation.  
+
+**🏭 Ashok Leyland, Hosur — Project Member (Jul 2024 – Jan 2025)**  
+→ Contributed to an **Automatic Attendance Monitoring System** project for industrial environments.
 
 ---
 
-## 🧭 Leadership & Volunteering
-- **Placement Cell Coordinator (2 Years)**  
-- **Vice President – R&D Club**  
-- **NSS Volunteer | CSI Chapter Member**
+### 🚀 Featured Projects
+
+| Project | Description |
+|:--|:--|
+| 🌦 **Weather App** | Kotlin-based Android app for real-time weather updates. |
+| 💧 **Automatic Tank Controller** | IoT system using ESP32 to manage household water levels automatically. |
+| 🖥 **Full Stack Web App** | Complete MERN-like architecture app with database connectivity. |
+| 🛰 **Wearable Tracking Device** | Smart wearable prototype developed for **Startup TN**. |
+| 🤖 **AI-Driven Product Creator** | NxtWave project that auto-generates product ideas using **AI**. |
 
 ---
 
-## ❤️ Interests
-🖌️ Drawing 📚 Reading 🧘‍♂️ Yoga 💡 Innovation 🌏 Learning Languages  
+### 🏅 Certifications & Achievements
+
+- 🎓 **Honor Diploma in Computer Applications (HDCA)** – CSC Sivaganga  
+- 💻 **Java Programming Certification** – CSC Sivaganga  
+- 🧠 **Wipro Java Foundation Certification** – Wipro TalentNext  
+- 🤖 **AI for Everyone Course** – ICT Academy of Tamil Nadu  
+- 📘 **Deep Learning for NLP** – NPTEL Certification  
+- 🧩 **Google Generative AI** – Coursera  
+- 🧠 **MongoDB, Cyber Security, Digital Marketing, AWS Fundamentals** – Self-learning Series  
+- 🥇 1st Place – Paper Presentation, PMC Tech Krishnagiri  
+- 🏆 Multiple Hackathon & Workshop Participant (Generative AI, MCP UI/UX, Networking Internals)
 
 ---
 
-## 📫 Connect with Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ajay-kanna-a-sivaganga-366500-ace)  
-- 💻 [GitHub](https://github.com/Ajaykannagit)  
-- ✉️ **ajaykanna144@gmail.com**  
-- 📞 **+91 95857 18967**
+### 🧭 Leadership & Volunteering
+
+- 🎯 **Placement Cell Coordinator (2 Years)**  
+- 🧩 **Vice President – R&D Club**  
+- 💼 **CSI Chapter Member**  
+- 🌱 **NSS Volunteer**
 
 ---
 
-⭐ *“Innovate. Iterate. Impact.”*
+### ⚡ Stats That Define Me
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajaykannagit&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajaykannagit&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaykannagit&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ajay-kanna-a-sivaganga-366500-ace"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Ajaykannagit"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" /></a>
+  <a href="mailto:ajaykanna144@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<h4 align="center">✨ “Innovate. Build. Evolve. Repeat.” ✨</h4>
