@@ -1,125 +1,158 @@
-<!-- 🚀 Premium GitHub Profile README | Ajay Kanna A -->
+<!-- 🌌 Ultra‑Animated Futuristic GitHub Profile README | Ajay Kanna A -->
 
-<h1 align="center">⚡ AJAY KANNA A ⚡</h1>
-<h3 align="center">Full Stack Developer • AI & IoT Enthusiast • Future-Driven Innovator</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:7F00FF&height=220&section=header&text=AJAY%20KANNA%20A&fontSize=55&fontColor=ffffff&animation=fadeIn" />
+
+</div>
+
+<h3 align="center">⚡ Full Stack Developer | 🤖 AI Explorer | 🌐 IoT Innovator ⚡</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00F0FF&size=26&center=true&vCenter=true&width=750&lines=Engineering+Ideas+Into+Impactful+Solutions;AI+%7C+IoT+%7C+Full+Stack+%7C+Cloud;Building+Scalable+%26+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=900&lines=Designing+the+Future+with+Code;Full+Stack+%7C+AI+%7C+IoT+%7C+Cloud;Turning+Ideas+into+Scalable+Reality;Always+Learning.+Always+Building." />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ajaykannagit&label=Profile%20Views&color=00F0FF&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Ajaykannagit&label=PROFILE+VIEWS&color=00F0FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Ajaykannagit?style=for-the-badge&color=7F00FF" />
 </p>
 
 ---
 
-## 🌌 About Me
+## 🧬 About Me (Live Status)
 
-I’m **Ajay Kanna A**, a passionate **Software Engineer** from **Tamil Nadu, India**, focused on building **intelligent, scalable, and future-ready systems**. I enjoy transforming complex problems into elegant solutions by blending **Full Stack Development**, **AI**, and **IoT**.
+```yaml
+Name: Ajay Kanna A
+Location: Sivaganga, Tamil Nadu, India 🇮🇳
+Role: Full Stack & AI Application Developer
+Education: B.E. Computer Science & Engineering (79.05%)
+Status: Actively Building & Learning 🚀
+Mindset: Problem Solver | System Thinker | Innovator
+```
 
-💡 My approach is simple: *learn deeply, build practically, and innovate continuously.*
+I am a **Full Stack & AI Application Developer** focused on building **scalable, secure, and intelligent software systems**. My work spans across **web, mobile, AI-driven platforms, and IoT-based automation**, with a strong emphasis on real-world impact and clean architecture.
 
-* 🔭 **Currently Exploring:** AI-powered applications & IoT automation systems
-* 🧠 **Strong At:** End-to-end application development (UI → Backend → Database)
-* 🌱 **Actively Learning:** Deep Learning (NLP), Generative AI, Japanese (N5)
-* 🛡 **Academic Focus:** Privacy & Security in Social Media (NPTEL)
-* 🎨 **Beyond Code:** Sketching (dark/emotive art), Manga & Books, Yoga, UI/UX creativity
-
----
-
-## 🧠 Technical Arsenal
-
-### 💻 Programming Languages
-
-`Java` · `Python` · `C` · `C++` · `Kotlin` · `JavaScript`
-
-### 🌐 Web & Mobile Development
-
-`HTML5` · `CSS3` · `Bootstrap` · `Flexbox` · `Android Studio`
-
-### ⚙️ Databases, Cloud & Tools
-
-`MySQL` · `MongoDB` · `AWS` · `Git` · `GitHub` · `ESP32 (IoT)`
-
-### 🤖 Emerging Technologies
-
-`Artificial Intelligence` · `Machine Learning` · `Deep Learning (NLP)` · `Generative AI` · `Automation`
+I enjoy working on **end-to-end products** — from idea and system design to development, deployment, and optimization.
 
 ---
 
-## 💼 Professional Experience
+## ⚡ What I’m Doing Right Now (Live)
 
-### 🧩 HexaTechnologies — *Full Stack Web Developer Intern*
-
-**Jun 2025 – Jul 2025**
-• Designed and deployed full-stack web applications
-• Integrated frontend, backend services, and databases
-• Strengthened debugging, optimization, and deployment skills
-
-### 📱 Technook (Bengaluru) — *Android Developer Intern*
-
-**Jun 2024 – Jul 2024**
-• Developed a real-time **Weather Application** using **Kotlin**
-• Implemented API integrations and clean UI components
-
-### 🌐 Cytronix (Karaikudi) — *IoT Developer Intern*
-
-**Dec 2024 – Jan 2025**
-• Built an **Automatic Water Tank Controller** using **ESP32**
-• Worked on sensors, microcontrollers, and automation logic
-
-### 🏭 Ashok Leyland (Hosur) — *Project Contributor*
-
-**Jul 2024 – Jan 2025**
-• Contributed to an **Automatic Attendance Monitoring System**
-• Exposure to industrial-grade project workflows
+* 🔴 Developing **AI-powered platforms** (NLP, Vision, Secure Apps)
+* 🟢 Building **Full Stack production-ready applications**
+* 🟣 Practicing **DSA, Core Java, Python & System Design**
+* 🔵 Exploring **Privacy, Security & Encrypted Applications**
+* 🟡 Learning **Japanese (N5)** and **Advanced AI Concepts**
 
 ---
 
-## 🚀 Highlighted Projects
+## 🛠️ Tech Stack (Animated Arsenal)
 
-| 🚧 Project                             | 🔍 Description                                                       |
-| -------------------------------------- | -------------------------------------------------------------------- |
-| 🌦 **Weather App**                     | Android app providing real-time weather updates via APIs (Kotlin).   |
-| 💧 **Automatic Water Tank Controller** | Smart IoT system using ESP32 for water-level automation.             |
-| 🖥 **Full Stack Web Application**      | End-to-end web solution with database connectivity.                  |
-| 🛰 **Wearable Tracking Device**        | Smart wearable prototype developed under **Startup TN**.             |
-| 🤖 **AI-Based Product Generator**      | AI-powered system that generates innovative product ideas (NxtWave). |
+### 💻 Languages
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,kotlin,js" />
+</p>
 
-## 🏅 Certifications & Achievements
+### 🌐 Web & App Development
 
-* 🎓 **HDCA – Computer Applications** (CSC Sivaganga)
-* ☕ **Java Programming Certification** (CSC Sivaganga)
-* 🧠 **Wipro Java Foundation** – TalentNext
-* 🤖 **AI for Everyone** – ICT Academy, Tamil Nadu
-* 📘 **Deep Learning for NLP** – NPTEL
-* 🧩 **Google Generative AI** – Coursera
-* ☁ **AWS Fundamentals, MongoDB, Cyber Security, Digital Marketing** – Self Learning
-* 🥇 **1st Prize** – Paper Presentation, PMC Tech (Krishnagiri)
-* 🏆 Active participant in Hackathons & Technical Workshops
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,androidstudio" />
+</p>
 
----
+### ⚙️ Database • Cloud • Tools
 
-## 🧭 Leadership & Community
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,aws,git,github" />
+</p>
 
-* 🎯 **Placement Cell Coordinator** (2 Years)
-* 🧩 **Vice President – R&D Club**
-* 💼 **CSI Student Chapter Member**
-* 🌱 **NSS Volunteer**
+### 🤖 AI • Emerging Tech
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+<p align="center">⚙️ IoT: ESP32 • Sensors • Automation</p>
 
 ---
 
-## 📊 GitHub Performance
+## 🧭 Experience Timeline (Industry Exposure)
+
+🧩 **HexaTechnologies, Madurai** — *Full Stack Web Developer Intern*
+🗓 Jun 16, 2025 – Jul 15, 2025
+➡️ Built and deployed full-stack applications with frontend, backend, and database integration
+➡️ Worked on complete development and deployment workflows
+
+📱 **Technook, Bengaluru** — *Android Developer Intern*
+🗓 Jun 2024 – Jul 2024
+➡️ Developed Android-based News Application
+➡️ Implemented UI components and API integration
+
+🌐 **Cytronix, Karaikudi** — *IoT Developer Intern*
+🗓 Dec 2024 – Jan 2025
+➡️ Developed ESP32-based Automatic Water Tank Controller
+➡️ Implemented sensor-driven automation logic
+
+🏭 **Ashok Leyland, Hosur** — *Project Member*
+🗓 Jul 2024 – Jan 2025
+➡️ Worked on Automatic Attendance Monitoring System
+➡️ Contributed to system design, implementation, and testing
+
+---
+
+## 🚀 Projects (Live, Advanced & Industry-Oriented)
+
+> 📌 *Complete source code, documentation, and demos are available on GitHub*
+
+| 🚧 Project                   | 🔍 Description                          | 🟢 Status    |
+| ---------------------------- | --------------------------------------- | ------------ |
+| **A.M.A**                    | AI-Powered Media Analysis Platform      | 🟢 Live      |
+| **AirScript AI**             | Vision-Based Spatial Text Input System  | 🟢 Live      |
+| **Cognitive-Lock**           | Encrypted Interactive Notes Application | 🟢 Live      |
+| **Kagi**                     | Secure Digital Password Vault           | 🟢 Live      |
+| **Multi-Persona Messenger**  | Context-Aware Communication Platform    | 🟡 Active    |
+| **Nexo**                     | AI-Driven Fake News Detection System    | 🟢 Live      |
+| **Smart Pet Care**           | Voice-Enabled AI Chatbot System         | 🟡 Prototype |
+| **Enterprise News App**      | Android News Application                | 🟢 Live      |
+| **JFALucky Palace**          | Business Website Platform               | 🟢 Live      |
+| **E-Commerce Jewelry Store** | Full Stack Web Application              | 🟢 Live      |
+
+----------|--------|----------|
+| 🌦 Weather App | Kotlin, API | 🟢 Live |
+| 💧 Water Tank Controller | ESP32, IoT | 🟢 Live |
+| 🖥 Full Stack Web App | MERN‑like | 🟢 Live |
+| 🛰 Wearable Tracking Device | IoT | 🟡 Prototype |
+| 🤖 AI Product Generator | Generative AI | 🟢 Live |
+
+---
+
+## 🏆 Certifications, Training & Recognition
+
+🎓 **NxtWave – Industry-Ready Certification Program** (Full Stack Foundations)
+☁ **Infosys Foundation – Finishing School Program** (Azure AI & Cloud AI Services)
+🤖 **Google Generative AI Certificate** – Coursera
+🧠 **Wipro Java Certification** – Core Java & OOP
+📘 **NPTEL Certifications** – Deep Learning for NLP & Privacy and Security in Online Social Media
+💻 **HDCA + Sun Java** – CSC
+📱 **Mobile App Development Internship** – Technook
+🌐 **Full Stack Web Internship** – HexaTechnologies
+⚙ **IoT Internship** – Cytronix
+
+🏅 **1st Prize – Paper Presentation**, PMC College (Krishnagiri)
+🏆 Awarded in Multiple Project & Paper Presentation Events
+🚀 **Recognized by Startup TN** – Smart Card Holder Project
+
+---
+
+## 📊 GitHub Analytics (Live Feed)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajaykannagit&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajaykannagit&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajaykannagit&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajaykannagit&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaykannagit&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajaykannagit&bg_color=0d1117&color=00F0FF&line=7F00FF&point=FFFFFF&hide_border=true" />
 </p>
 
 ---
@@ -127,12 +160,15 @@ I’m **Ajay Kanna A**, a passionate **Software Engineer** from **Tamil Nadu, In
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ajay-kanna-a-sivaganga-366500-ace"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Ajaykannagit"><img src="https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white" /></a>
-  <a href="mailto:ajaykanna144@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ajay-kanna-a-sivaganga-366500-ace"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://github.com/Ajaykannagit"><img src="https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:ajaykanna144@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 ---
 
-<h3 align="center">✨ Innovate • Build • Scale • Evolve ✨</h3>
-<h4 align="center">🚀 Turning vision into real-world technology</h4>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F0FF&height=160&section=footer&text=Innovate+•+Build+•+Evolve&fontSize=30&fontColor=ffffff" />
+
+</div>
