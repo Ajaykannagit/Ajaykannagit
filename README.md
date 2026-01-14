@@ -1,15 +1,17 @@
-<!-- 🌌 Ultra‑Animated Futuristic GitHub Profile README | Ajay Kanna A -->
+<!-- 🚀 High-Impact Futuristic GitHub Profile | Ajay Kanna A -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:7F00FF&height=220&section=header&text=AJAY%20KANNA%20A&fontSize=55&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:7F00FF&height=220&section=header&text=AJAY%20KANNA%20A&fontSize=54&fontColor=ffffff&animation=fadeIn" />
 
 </div>
 
-<h3 align="center">⚡ Full Stack Developer | 🤖 AI Explorer | 🌐 IoT Innovator ⚡</h3>
+<h3 align="center">
+Full Stack Engineer • AI Systems Builder • IoT Innovator
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=900&lines=Designing+the+Future+with+Code;Full+Stack+%7C+AI+%7C+IoT+%7C+Cloud;Turning+Ideas+into+Scalable+Reality;Always+Learning.+Always+Building." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&pause=900&color=00F0FF&center=true&vCenter=true&width=900&lines=Engineering+Intelligent+Systems;Full+Stack+%7C+AI+%7C+IoT+%7C+Cloud;From+Concept+to+Production;Build+Once.+Scale+Forever." />
 </p>
 
 <p align="center">
@@ -19,17 +21,15 @@
 
 ---
 
-## 🧬 About Me (Live Status)
+## ⚡ Identity Snapshot
 
 ```yaml
 Name: Ajay Kanna A
-Location: Sivaganga, Tamil Nadu, India 🇮🇳
-Role: Full Stack & AI Application Developer
+Base: Sivaganga, Tamil Nadu 🇮🇳
+Primary Role: Full Stack & AI Application Engineer
+Core Strength: End-to-End System Ownership
 Education: B.E. Computer Science & Engineering (79.05%)
-Status: Actively Building & Learning 🚀
-Mindset: Problem Solver | System Thinker | Innovator
-```
-
+Operating Mode: Build → Test → Deploy → Scale
 I am a **Full Stack & AI Application Developer** focused on building **scalable, secure, and intelligent software systems**. My work spans across **web, mobile, AI-driven platforms, and IoT-based automation**, with a strong emphasis on real-world impact and clean architecture.
 
 I enjoy working on **end-to-end products** — from idea and system design to development, deployment, and optimization.
