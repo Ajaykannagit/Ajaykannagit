@@ -24,20 +24,20 @@
 
 ---
 
-## 🧬 About Me (System Architect & AI Engineer)
+## 🧬 About Me (Systems + AI + Full-Stack Engineer)
 
 ```yaml
 Name: Ajay Kanna A
-Location: Sivaganga, Tamil Nadu, India 🇮🇳
-Role: System Architect | Applied AI Engineer
-Focus: Scalable AI Systems • Secure Architecture • Research-to-Product
-Status: Actively Architecting Intelligence 🚀
-Mindset: System Thinker | Full-Stack Integrator | Applied ML Researcher
+Role: Systems + AI + Full-Stack Engineer
+Core: Distributed Systems | ML Pipelines | Cloud-Native Arch
+Focus: End-to-End Product Engineering • Scalable Intelligence
+Status: Actively Architecting AI Ecosystems 🚀
+Mindset: Research-to-Product | System-Level Optimization
 ```
 
-I am a **System Architect & Applied AI Engineer** dedicated to engineering **scalable, secure, and intelligent production systems**. My expertise lies at the intersection of **Applied Machine Learning, Distributed Systems, and IoT Ecosystems**, where I bridge the gap between complex research and high-impact products.
+I am a **Systems + AI + Full-Stack Engineer** specializing in the design and implementation of **high-performance distributed systems** and **complex ML pipelines**. My approach focuses on **end-to-end product engineering**, bridging the gap between low-level system optimization and high-level artificial intelligence.
 
-I specialize in **end-to-end architecting** — transforming abstract concepts into production-ready platforms with a focus on **secure architecture and scalable intelligence**.
+I architect **cloud-native solutions** that are secure by design and scalable by nature, transforming sophisticated technical challenges into seamless, production-ready experiences.
 
 ---
 
@@ -55,26 +55,52 @@ I specialize in **end-to-end architecting** — transforming abstract concepts i
 
 ---
 
-## 🛠️ Tech Stack (Animated Arsenal)
+### 🛠️ Tech Stack (Animated Arsenal)
 
-### 💻 Languages & Frameworks
+<div align="center">
+  <img src="tech-stack-loop.svg" width="100%" />
+</div>
+
+#### 💻 Frontend Architecture
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,kotlin,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=react,angular,vue,ts,js,html,css,tailwind,bootstrap" />
 </p>
 
-### ⚙️ Database • Cloud • Tools
+#### ⚙️ Backend & Systems Logic
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,git,github,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,java,kotlin,python,cpp,bash" />
 </p>
 
-### 🤖 AI • Machine Learning • Emerging Tech
+#### 🤖 Machine Learning & AI Ecosystem
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
-> **Core Focus:** Generative AI (GenAI) • LLM Applications • Prompt Engineering • Model Deployment • Machine Learning & Deep Learning (TensorFlow, PyTorch)
+> **ML Thinking:** Generative AI (GenAI) • LLM Applications • Prompt Engineering • Model Deployment • Neural Architectures
+
+#### ☁️ Cloud • DevOps • Environments
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,firebase,git,linux" />
+</p>
+
+#### 🗄️ Database Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+</p>
+
+#### 🧩 IoT • Robotics • Game Dev
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,unity,blender" />
+</p>
+
+#### 🎨 Design • Automation • Testing
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,xd,illustrator,selenium,postman,grafana" />
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
+</p>
 
 <p align="center">⚙️ IoT: ESP32 • Sensors • Automation</p>
 
@@ -151,6 +177,25 @@ I specialize in **end-to-end architecting** — transforming abstract concepts i
 
 ---
 
+---
+
+## 🎮 AI-Enhanced Futuristic Snake Engine
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LIVE%20DEMO-ENGINE%20INITIALIZED-00F0FF?style=for-the-badge&logo=target" />
+  <img src="https://img.shields.io/badge/AUTO--PLAY-AI%20ENABLED-7F00FF?style=for-the-badge&logo=cpu" />
+</p>
+
+> **Architectural Highlights:** Built with a high-performance HTML5 Canvas engine, featuring custom particle physics, neon cyberpunk aesthetics, and an adaptive AI auto-play mode. Optimized for low-latency browser rendering and cross-platform mobile support.
+
+<p align="center">
+  <a href="https://Ajaykannagit.github.io/Ajaykannagit/snake-engine/">
+    <img src="https://img.shields.io/badge/🚀%20LAUNCH%20SNAKE%20ENGINE-00F0FF?style=for-the-badge&logoColor=black" />
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Analytics (Live Feed)
 
 <p align="center">
@@ -190,6 +235,10 @@ I specialize in **end-to-end architecting** — transforming abstract concepts i
   <a href="https://leetcode.com/u/Ajaykannaleetcode/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://huggingface.co/AjaykannaA"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
 </p>
+
+> **Focus Areas:** Distributed Systems Engineering • Cloud-Native Microservices • High-Performance AI Pipelines • End-to-End Secure Architecture
+
+---
 
 ---
 
