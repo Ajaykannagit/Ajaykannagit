@@ -136,16 +136,21 @@ I architect **cloud-native solutions** that are secure by design and scalable by
 
 | 🚧 Project                   | 🔍 High-Impact Description                          | 🟢 Status    |
 | ---------------------------- | --------------------------------------------------- | ------------ |
+| [**CollabPro**](https://github.com/Ajaykannagit/CollabPro) | **Enterprise Collaboration**: A high-performance, real-time workspace for distributed teams with integrated analytical layers. | 🟢 Live |
 | [**A.M.A**](https://github.com/Ajaykannagit/A.M.A) | **Media Analysis Platform**: Leverages Deep Learning for real-time vision processing and semantic video understanding. | 🟡 Active    |
-| [**AirScript AI**](https://github.com/Ajaykannagit/AirScript-AI) | **Spatial Computing**: A vision-based gesture recognition engine for frictionless spatial text input. | 🟡 Active    |
-| [**Cognitive-Lock**](https://github.com/Ajaykannagit/Cognitive-Lock) | **Secure Architecture**: End-to-end encrypted intelligence layer for sensitive data orchestration and storage. | 🟡 Active    |
-| [**Kagi**](https://github.com/Ajaykannagit/Kagi) | **Zero-Trust Vault**: A high-security credential management system built on cryptographic best practices. | 🟢 Live      |
-| [**Multi-Persona Messenger**](https://github.com/Ajaykannagit/Multi-Persona-Messenger) | **Contextual Communication**: Architected a multi-agent system for intelligent, context-aware digital interactions. | 🟡 Active    |
-| [**Nexo**](https://github.com/Ajaykannagit/Nexo) | **Neural Truth Engine**: AI-driven adversarial detection system for real-time misinformation filtering. | 🟡 Active    |
-| [**Smart Pet Care**](https://github.com/Ajaykannagit/Smart-Pet-Care) | **Interactive AI**: Voice-enabled edge computing system integrating NLP and IoT for automated care. | 🟡 Prototype |
-| [**Enterprise News App**](https://github.com/Ajaykannagit/Enterprise-News-App) | **Scalable Content Delivery**: Mobile-first distributed news platform with real-time API synchronization. | 🟡 Active    |
-| [**JFALucky Palace**](https://github.com/Ajaykannagit/JFALucky-Palace) | **Business Ecosystem**: High-performance production website optimized for scale and SEO. | 🟢 Live      |
-| [**E-Commerce Store**](https://github.com/Ajaykannagit/E-Commerce-Jewelry-Store) | **Full-Stack Commerce**: A robust MERN-based commerce engine with secure payment gateways and state management. | 🟡 Active    |
+| [**AirScript AI**](https://github.com/Ajaykannagit/Air_Write) | **Spatial Computing**: A vision-based gesture recognition engine for frictionless spatial text input. | 🟡 Active    |
+| [**Cognitive-Lock**](https://github.com/Ajaykannagit/CognitiveLock) | **Secure Architecture**: End-to-end encrypted intelligence layer for sensitive data orchestration and storage. | 🟡 Active    |
+| [**Kagi**](https://github.com/Ajaykannagit/password-manager) | **Zero-Trust Vault**: A high-security credential management system built on cryptographic best practices. | 🟢 Live      |
+| [**Multi-Persona Messenger**](https://github.com/Ajaykannagit/multi-persona-messenger) | **Contextual Communication**: Architected a multi-agent system for intelligent, context-aware digital interactions. | 🟡 Active    |
+| [**FakeSense Authenticator**](https://github.com/Ajaykannagit/fakesense-authenticator) | **Biometric Security**: Advanced authentication engine utilizing spatial intelligence and anti-spoofing logic. | 🟡 Active |
+| [**Concentration Grid**](https://github.com/Ajaykannagit/concentration-grid) | **Cognitive Analytics**: A tracking system designed to measure and optimize cognitive focus through interactive grid dynamics. | 🟡 Active |
+| [**Content Extractor**](https://github.com/Ajaykannagit/Content_Extractor) | **Data Orchestration**: Automated pipeline for extracting, refining, and structured archiving of multi-source intelligence. | 🟡 Active |
+| [**Smart Pet Care**](https://github.com/Ajaykannagit/pet_chatbot) | **Interactive AI**: Voice-enabled edge computing system integrating NLP and IoT for automated care. | 🟡 Prototype |
+| [**Enterprise News App**](https://github.com/Ajaykannagit/newsApp) | **Scalable Content Delivery**: Mobile-first distributed news platform with real-time API synchronization. | 🟡 Active    |
+| [**JFALucky Palace**](https://github.com/Ajaykannagit/JFALuckyPalace) | **Business Ecosystem**: High-performance production website optimized for scale and SEO. | 🟢 Live      |
+| [**E-Commerce Store**](https://github.com/Ajaykannagit/rajalakshmiwebsite) | **Full-Stack Commerce**: A robust MERN-based commerce engine with secure payment gateways and state management. | 🟡 Active    |
+| [**MCP Optimizer**](https://github.com/Ajaykannagit/mcp-learning-path-demo) | **AI Learning Architect**: Distributed engine for optimizing individual learning paths through graph-based analysis. | 🟡 Prototype |
+| [**Ashok Leyland project**](https://github.com/Ajaykannagit/Ashok_layland_Attence_Monitoring_project) | **Industrial Automation**: Attendance monitoring system developed during industrial engagement at Ashok Leyland. | 🟢 Completed |
 | [**Water Tank Controller**](https://github.com/Ajaykannagit/Water-Tank-Controller) | **Industrial IoT**: ESP32-driven automation logic for efficient industrial resource management. | 🟡 Active |
 | [**AI Product Generator**](https://github.com/Ajaykannagit/AI-Product-Generator) | **Generative AI Pipeline**: Production-grade pipeline for AI-driven asset creation and refinement. | 🟡 Active |
 
