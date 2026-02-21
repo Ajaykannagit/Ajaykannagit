@@ -137,7 +137,6 @@ I architect **cloud-native solutions** that are secure by design and scalable by
 | 🚧 Project                   | 🔍 High-Impact Description                          | 🟢 Status    |
 | ---------------------------- | --------------------------------------------------- | ------------ |
 | [**CollabPro**](https://github.com/Ajaykannagit/CollabPro) | **Enterprise Collaboration**: A high-performance, real-time workspace for distributed teams with integrated analytical layers. | 🟢 Live |
-| [**A.M.A**](https://github.com/Ajaykannagit/A.M.A) | **Media Analysis Platform**: Leverages Deep Learning for real-time vision processing and semantic video understanding. | 🟡 Active    |
 | [**AirScript AI**](https://github.com/Ajaykannagit/Air_Write) | **Spatial Computing**: A vision-based gesture recognition engine for frictionless spatial text input. | 🟡 Active    |
 | [**Cognitive-Lock**](https://github.com/Ajaykannagit/CognitiveLock) | **Secure Architecture**: End-to-end encrypted intelligence layer for sensitive data orchestration and storage. | 🟡 Active    |
 | [**Kagi**](https://github.com/Ajaykannagit/password-manager) | **Zero-Trust Vault**: A high-security credential management system built on cryptographic best practices. | 🟢 Live      |
@@ -151,8 +150,6 @@ I architect **cloud-native solutions** that are secure by design and scalable by
 | [**E-Commerce Store**](https://github.com/Ajaykannagit/rajalakshmiwebsite) | **Full-Stack Commerce**: A robust MERN-based commerce engine with secure payment gateways and state management. | 🟡 Active    |
 | [**MCP Optimizer**](https://github.com/Ajaykannagit/mcp-learning-path-demo) | **AI Learning Architect**: Distributed engine for optimizing individual learning paths through graph-based analysis. | 🟡 Prototype |
 | [**Ashok Leyland project**](https://github.com/Ajaykannagit/Ashok_layland_Attence_Monitoring_project) | **Industrial Automation**: Attendance monitoring system developed during industrial engagement at Ashok Leyland. | 🟢 Completed |
-| [**Water Tank Controller**](https://github.com/Ajaykannagit/Water-Tank-Controller) | **Industrial IoT**: ESP32-driven automation logic for efficient industrial resource management. | 🟡 Active |
-| [**AI Product Generator**](https://github.com/Ajaykannagit/AI-Product-Generator) | **Generative AI Pipeline**: Production-grade pipeline for AI-driven asset creation and refinement. | 🟡 Active |
 
 ---
 
