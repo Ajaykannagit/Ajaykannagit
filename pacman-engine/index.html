@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI-Enhanced Futuristic Pac-Man Engine</title>
+    <link rel="stylesheet" href="style.css">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Inter:wght@300;400;600&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <div id="game-container">
+        <header>
+            <div class="hud-item left">
+                <span class="label">SCORE</span>
+                <span id="score" class="value">00000</span>
+            </div>
+            <div class="hud-center">
+                <div class="hud-title">PAC-MAN ENGINE 2.0</div>
+                <div class="hud-ai-status">
+                    <span class="status-dot"></span>
+                    <span id="ai-mode">AI CHASE: ACTIVE</span>
+                </div>
+            </div>
+            <div class="hud-item right">
+                <span class="label">HIGH SCORE</span>
+                <span id="high-score" class="value">00000</span>
+            </div>
+        </header>
+
+        <main id="maze-container">
+            <canvas id="gameCanvas"></canvas>
+            <div id="overlay" class="glass">
+                <div id="menu">
+                    <h1>NEON PAC-MAN</h1>
+                    <p class="subtitle">AI-ENHANCED FUTURISTIC EDITION</p>
+                    <button id="start-btn" class="cyber-btn">INITIALIZE CORE</button>
+                    <div class="controls-hint">
+                        <span>WASD / ARROWS TO NAVIGATE</span>
+                        <span>[ESC] TO PAUSE</span>
+                    </div>
+                </div>
+                <div id="game-over" class="hidden">
+                    <h2 class="glitch-text" data-text="SYSTEM FAILURE">SYSTEM FAILURE</h2>
+                    <p>RECOVERY SEQUENCE AVAILABLE</p>
+                    <button id="restart-btn" class="cyber-btn">REBOOT SYSTEM</button>
+                </div>
+                <div id="pause-screen" class="hidden">
+                    <h2 class="neon-text">PAUSED</h2>
+                    <button id="resume-btn" class="cyber-btn">RESUME MISSION</button>
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            <div class="system-stats">
+                <div class="stat">
+                    <span class="stat-label">DIFFICULTY:</span>
+                    <span id="difficulty-val" class="stat-value">NORMAL</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-label">LIVES:</span>
+                    <div id="lives-container"></div>
+                </div>
+            </div>
+        </footer>
+    </div>
+    <script src="game.js"></script>
+</body>
+
+</html>

@@ -175,18 +175,18 @@ I architect **cloud-native solutions** that are secure by design and scalable by
 
 ---
 
-## 🎮 AI-Enhanced Futuristic Snake Engine
+## 🎮 AI-Enhanced Futuristic Pac-Man Engine
 
 <p align="center">
   <img src="https://img.shields.io/badge/LIVE%20DEMO-ENGINE%20INITIALIZED-00F0FF?style=for-the-badge&logo=target" />
-  <img src="https://img.shields.io/badge/AUTO--PLAY-AI%20ENABLED-7F00FF?style=for-the-badge&logo=cpu" />
+  <img src="https://img.shields.io/badge/GHOST--AI-ENABLED-FF0000?style=for-the-badge&logo=cpu" />
 </p>
 
-> **Architectural Highlights:** Built with a high-performance HTML5 Canvas engine, featuring custom particle physics, neon cyberpunk aesthetics, and an adaptive AI auto-play mode. Optimized for low-latency browser rendering and cross-platform mobile support.
+> **Engine Architecture:** A high-fidelity arcade engine featuring advanced **A* Pathfinding AI**, coordinated ghost personalities, and a neon-dark futuristic visual system. Built for seamless performance and responsive interaction.
 
 <p align="center">
-  <a href="https://Ajaykannagit.github.io/Ajaykannagit/snake-engine/">
-    <img src="https://img.shields.io/badge/🚀%20LAUNCH%20SNAKE%20ENGINE-00F0FF?style=for-the-badge&logoColor=black" />
+  <a href="https://Ajaykannagit.github.io/Ajaykannagit/pacman-engine/">
+    <img src="https://img.shields.io/badge/🚀%20LAUNCH%20PAC--MAN%20ENGINE-00F0FF?style=for-the-badge&logoColor=black" />
   </a>
 </p>
 
