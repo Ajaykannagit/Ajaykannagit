@@ -238,10 +238,10 @@ I architect **cloud-native solutions** that are secure by design and scalable by
 
 ---
 
-## 🐍 Activity Graph
+## 🕹️ AI-Enhanced Pac-Man Contribution Engine
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ajaykannagit/Ajaykannagit/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Ajaykannagit/Ajaykannagit/output/pacman.svg" alt="Pac-Man Contribution Animation" />
 </p>
 
 ---
