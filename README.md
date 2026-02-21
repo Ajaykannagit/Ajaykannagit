@@ -55,11 +55,7 @@ I architect **cloud-native solutions** that are secure by design and scalable by
 
 ---
 
-### 🛠️ Tech Stack (Animated Arsenal)
-
-<div align="center">
-  <img src="tech-stack-loop.svg" width="100%" />
-</div>
+### 🛠️ Technical Ecosystem (Expert Stack)
 
 #### 💻 Frontend Architecture
 <p>
