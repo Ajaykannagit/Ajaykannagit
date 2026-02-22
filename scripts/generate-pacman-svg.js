@@ -111,7 +111,11 @@ function generateSVG(weeks) {
     // Sort days by date to ensure sequential traversal
     // But contributionDays are already mostly ordered.
 
-    const pacmanPath = days.map(d => `${d.x * (boxSize + gap) + boxSize / 2},${d.y * (boxSize + gap) + boxSize / 2}`).join(' ');
+    const pacmanPath = days.map((d, i) => {
+        const px = d.x * (boxSize + gap) + boxSize / 2;
+        const py = d.y * (boxSize + gap) + boxSize / 2;
+        return (i === 0 ? `M ${px},${py}` : `L ${px},${py}`);
+    }).join(' ');
 
     let rects = '';
     days.forEach(d => {
@@ -156,19 +160,19 @@ function generateSVG(weeks) {
         
         <!-- Pac-Man Animation -->
         <g class="pacman">
-            <animateMotion dur="20s" repeatCount="indefinite" path="M ${pacmanPath}" />
+            <animateMotion dur="20s" repeatCount="indefinite" path="${pacmanPath}" />
             <circle r="4" class="pacman-body" />
         </g>
         
         <!-- Red Ghost (Blinky) Following -->
         <g class="ghost ghost-red">
-            <animateMotion dur="20s" repeatCount="indefinite" path="M ${pacmanPath}" begin="0.3s" />
+            <animateMotion dur="20s" repeatCount="indefinite" path="${pacmanPath}" begin="0.3s" />
             <path d="M -3,0 A 3,3 0 0 1 3,0 L 3,3 L 1.5,2 L 0,3 L -1.5,2 L -3,3 Z" />
         </g>
         
         <!-- Pink Ghost (Pinky) Following -->
         <g class="ghost ghost-pink">
-            <animateMotion dur="20s" repeatCount="indefinite" path="M ${pacmanPath}" begin="0.6s" />
+            <animateMotion dur="20s" repeatCount="indefinite" path="${pacmanPath}" begin="0.6s" />
             <path d="M -3,0 A 3,3 0 0 1 3,0 L 3,3 L 1.5,2 L 0,3 L -1.5,2 L -3,3 Z" />
         </g>
     </g>

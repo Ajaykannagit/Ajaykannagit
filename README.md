@@ -175,9 +175,6 @@ I architect **cloud-native solutions** that are secure by design and scalable by
 
 ---
 
-
-
-
 ## 📊 GitHub Analytics (Live Feed)
 
 <p align="center">
@@ -219,8 +216,6 @@ I architect **cloud-native solutions** that are secure by design and scalable by
 </p>
 
 > **Focus Areas:** Distributed Systems Engineering • Cloud-Native Microservices • High-Performance AI Pipelines • End-to-End Secure Architecture
-
----
 
 ---
 
