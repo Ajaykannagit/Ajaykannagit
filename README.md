@@ -175,24 +175,8 @@ I architect **cloud-native solutions** that are secure by design and scalable by
 
 ---
 
----
 
-## 🎮 AI-Enhanced Futuristic Pac-Man Engine
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LIVE%20DEMO-ENGINE%20INITIALIZED-00F0FF?style=for-the-badge&logo=target" />
-  <img src="https://img.shields.io/badge/GHOST--AI-ENABLED-FF0000?style=for-the-badge&logo=cpu" />
-</p>
-
-> **Engine Architecture:** A high-fidelity arcade engine featuring advanced **A* Pathfinding AI**, coordinated ghost personalities, and a neon-dark futuristic visual system. Built for seamless performance and responsive interaction.
-
-<p align="center">
-  <a href="https://Ajaykannagit.github.io/Ajaykannagit/pacman-engine/">
-    <img src="https://img.shields.io/badge/🚀%20LAUNCH%20PAC--MAN%20ENGINE-00F0FF?style=for-the-badge&logoColor=black" />
-  </a>
-</p>
-
----
 
 ## 📊 GitHub Analytics (Live Feed)
 
