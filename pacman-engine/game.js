@@ -29,19 +29,20 @@ const ORIGINAL_MAZE = [
     [1, 2, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 2, 1],
     [1, 2, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 1, 2, 2, 2, 1, 2, 2, 2, 1, 2, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 1],
     [1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 4, 1, 4, 1, 1, 1, 1, 1, 4, 1, 4, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1],
-    [4, 4, 4, 4, 1, 2, 1, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 1, 2, 1, 4, 4, 4, 4, 4],
-    [1, 1, 1, 1, 1, 2, 1, 4, 1, 1, 1, 0, 0, 0, 1, 1, 4, 1, 1, 0, 0, 0, 1, 1, 4, 1, 2, 1, 1, 1, 1, 1],
-    [4, 4, 4, 4, 4, 2, 4, 4, 1, 4, 4, 0, 0, 0, 4, 4, 4, 4, 4, 0, 0, 0, 4, 1, 4, 4, 2, 4, 4, 4, 4, 4],
-    [1, 1, 1, 1, 1, 2, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 4, 1, 2, 1, 1, 1, 1, 1],
-    [4, 4, 4, 4, 1, 2, 1, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 1, 2, 1, 4, 4, 4, 4, 4],
-    [1, 1, 1, 1, 1, 2, 1, 4, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1],
-    [1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1],
-    [1, 2, 1, 1, 1, 2, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2, 1],
-    [1, 3, 2, 2, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 4, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 2, 2, 3, 1],
-    [1, 1, 1, 2, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1],
+    [4, 4, 4, 4, 1, 2, 1, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 1, 2, 1, 4, 4, 4, 4],
+    [1, 1, 1, 1, 1, 2, 1, 4, 1, 1, 1, 0, 0, 0, 0, 1, 4, 1, 0, 0, 0, 0, 1, 1, 4, 1, 2, 1, 1, 1, 1, 1, 1],
+    [4, 4, 4, 4, 4, 2, 4, 4, 1, 4, 4, 0, 0, 0, 0, 4, 4, 4, 0, 0, 0, 0, 4, 1, 4, 4, 2, 4, 4, 4, 4, 4, 4],
+    [1, 1, 1, 1, 1, 2, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 4, 1, 2, 1, 1, 1, 1, 1, 1],
+    [4, 4, 4, 4, 1, 2, 1, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 1, 2, 1, 4, 4, 4, 4],
+    [1, 1, 1, 1, 1, 2, 1, 4, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1],
+    [1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1],
+    [1, 2, 1, 1, 1, 2, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2, 1],
+    [1, 3, 2, 2, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 4, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 2, 2, 3, 1],
+    [1, 1, 1, 2, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1],
     [1, 2, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 1, 2, 2, 2, 1, 2, 2, 2, 1, 2, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 1],
     [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
 ];
+
 
 let maze = [];
 const MAP_WIDTH = ORIGINAL_MAZE[0].length * TILE_SIZE;
@@ -74,14 +75,26 @@ class Pacman {
         this.rotation = 0;
     }
     update() {
-        // Try next direction if available
-        if (this.canMove(this.nextDir)) {
-            this.dir = this.nextDir;
+        // Try next direction if available (only at grid center for smooth turning)
+        const centerX = Math.floor(this.x / TILE_SIZE) * TILE_SIZE + TILE_SIZE / 2;
+        const centerY = Math.floor(this.y / TILE_SIZE) * TILE_SIZE + TILE_SIZE / 2;
+        const atCenter = Math.abs(this.x - centerX) < PACMAN_SPEED && Math.abs(this.y - centerY) < PACMAN_SPEED;
+
+        if (atCenter && (this.nextDir.x !== 0 || this.nextDir.y !== 0)) {
+            if (this.canMove(this.nextDir)) {
+                this.x = centerX;
+                this.y = centerY;
+                this.dir = this.nextDir;
+            }
         }
 
         if (this.canMove(this.dir)) {
             this.x += this.dir.x * PACMAN_SPEED;
             this.y += this.dir.y * PACMAN_SPEED;
+
+            // Tunnel Wrapping
+            if (this.x < 0) this.x = MAP_WIDTH;
+            if (this.x > MAP_WIDTH) this.x = 0;
 
             // Mouth animation
             this.mouthOpen += this.mouthSpeed;
@@ -97,24 +110,38 @@ class Pacman {
         // Pellet collision
         const gridX = Math.floor(this.x / TILE_SIZE);
         const gridY = Math.floor(this.y / TILE_SIZE);
-        if (maze[gridY][gridX] === 2) {
-            maze[gridY][gridX] = 4;
-            score += 10;
-            updateScore();
-        } else if (maze[gridY][gridX] === 3) {
-            maze[gridY][gridX] = 4;
-            score += 50;
-            updateScore();
-            ghosts.forEach(g => g.makeFrightened());
+
+        // Bounds checking
+        if (gridY >= 0 && gridY < maze.length && gridX >= 0 && gridX < maze[0].length) {
+            if (maze[gridY][gridX] === 2) {
+                maze[gridY][gridX] = 4;
+                score += 10;
+                updateScore();
+                checkWin();
+            } else if (maze[gridY][gridX] === 3) {
+                maze[gridY][gridX] = 4;
+                score += 50;
+                updateScore();
+                checkWin();
+                ghosts.forEach(g => g.makeFrightened());
+            }
         }
     }
     canMove(dir) {
         if (dir.x === 0 && dir.y === 0) return true;
+
         const nextX = this.x + dir.x * (TILE_SIZE / 2 + 1);
         const nextY = this.y + dir.y * (TILE_SIZE / 2 + 1);
+
+        // Allow tunnel passage
+        if (nextX < 0 || nextX >= MAP_WIDTH) return true;
+
         const gx = Math.floor(nextX / TILE_SIZE);
         const gy = Math.floor(nextY / TILE_SIZE);
-        return ORIGINAL_MAZE[gy][gx] !== 1 && ORIGINAL_MAZE[gy][gx] !== 0;
+
+        if (gy < 0 || gy >= ORIGINAL_MAZE.length || gx < 0 || gx >= ORIGINAL_MAZE[0].length) return false;
+
+        return ORIGINAL_MAZE[gy][gx] !== 1;
     }
     draw() {
         ctx.save();
@@ -153,8 +180,10 @@ class Ghost {
     }
     makeFrightened() {
         this.frightened = true;
-        this.frightenedTimer = 300;
-        this.speed = GHOST_SPEED * 0.6;
+        this.frightenedTimer = 400; // Longer frightened mode
+        this.speed = GHOST_SPEED * 0.5;
+        // Reverse direction
+        this.dir = { x: -this.dir.x, y: -this.dir.y };
     }
     update() {
         if (this.frightened) {
@@ -165,15 +194,24 @@ class Ghost {
             }
         }
 
-        // AI Pathfinding Logic (BFS simplified)
-        if (Math.abs(this.x % TILE_SIZE - TILE_SIZE / 2) < 2 && Math.abs(this.y % TILE_SIZE - TILE_SIZE / 2) < 2) {
+        // AI Pathfinding Logic
+        if (Math.abs(this.x % TILE_SIZE - TILE_SIZE / 2) < this.speed && Math.abs(this.y % TILE_SIZE - TILE_SIZE / 2) < this.speed) {
             const gx = Math.floor(this.x / TILE_SIZE);
             const gy = Math.floor(this.y / TILE_SIZE);
+
+            // Re-align to center
+            this.x = gx * TILE_SIZE + TILE_SIZE / 2;
+            this.y = gy * TILE_SIZE + TILE_SIZE / 2;
+
             this.dir = this.getBestDir(gx, gy);
         }
 
         this.x += this.dir.x * this.speed;
         this.y += this.dir.y * this.speed;
+
+        // Tunnel Wrapping for ghosts too
+        if (this.x < 0) this.x = MAP_WIDTH;
+        if (this.x > MAP_WIDTH) this.x = 0;
 
         // Collision with Pacman
         const dist = Math.hypot(this.x - pacman.x, this.y - pacman.y);
@@ -191,7 +229,17 @@ class Ghost {
         const dirs = [{ x: 1, y: 0 }, { x: -1, y: 0 }, { x: 0, y: 1 }, { x: 0, y: -1 }];
         const validDirs = dirs.filter(d => {
             if (d.x === -this.dir.x && d.y === -this.dir.y) return false;
-            const val = ORIGINAL_MAZE[gy + d.y][gx + d.x];
+
+            let nx = gx + d.x;
+            let ny = gy + d.y;
+
+            // Handle tunnel transition in validDirs
+            if (nx < 0) nx = ORIGINAL_MAZE[0].length - 1;
+            if (nx >= ORIGINAL_MAZE[0].length) nx = 0;
+
+            if (ny < 0 || ny >= ORIGINAL_MAZE.length) return false;
+
+            const val = ORIGINAL_MAZE[ny][nx];
             return val !== 1;
         });
 
@@ -201,11 +249,22 @@ class Ghost {
         let targetY = pacman.y / TILE_SIZE;
 
         if (this.frightened) {
-            // Run to corners
-            targetX = 0; targetY = 0;
+            // Run to corners or random move
+            const randomTarget = [
+                { x: 0, y: 0 },
+                { x: ORIGINAL_MAZE[0].length - 1, y: 0 },
+                { x: 0, y: ORIGINAL_MAZE.length - 1 },
+                { x: ORIGINAL_MAZE[0].length - 1, y: ORIGINAL_MAZE.length - 1 }
+            ][Math.floor(Math.random() * 4)];
+            targetX = randomTarget.x; targetY = randomTarget.y;
         } else if (this.type === 'pinky') {
             targetX += pacman.dir.x * 4;
             targetY += pacman.dir.y * 4;
+        } else if (this.type === 'clyde') {
+            const dist = Math.hypot(gx - targetX, gy - targetY);
+            if (dist < 8) {
+                targetX = 0; targetY = ORIGINAL_MAZE.length;
+            }
         }
 
         return validDirs.reduce((best, curr) => {
@@ -246,10 +305,10 @@ class Ghost {
 
 const pacman = new Pacman();
 const ghosts = [
-    new Ghost(11, 8, '#FF0000', 'blinky'),
-    new Ghost(12, 8, '#FFB8FF', 'pinky'),
-    new Ghost(13, 8, '#00FFFF', 'inky'),
-    new Ghost(14, 8, '#FFB852', 'clyde')
+    new Ghost(11, 9, '#FF0000', 'blinky'),
+    new Ghost(12, 9, '#FFB8FF', 'pinky'),
+    new Ghost(13, 9, '#00FFFF', 'inky'),
+    new Ghost(14, 9, '#FFB852', 'clyde')
 ];
 
 function updateScore() {
@@ -261,11 +320,29 @@ function updateScore() {
     }
 }
 
+function checkWin() {
+    let pellets = 0;
+    for (let r = 0; r < maze.length; r++) {
+        for (let c = 0; c < maze[r].length; c++) {
+            if (maze[r][c] === 2 || maze[r][c] === 3) pellets++;
+        }
+    }
+    if (pellets === 0) {
+        gameState = 'GAME_OVER';
+        document.querySelector('#game-over h2').textContent = 'MISSION COMPLETE';
+        document.querySelector('#game-over p').textContent = 'CORE STABILIZED';
+        gameOverScreen.classList.remove('hidden');
+        overlay.classList.remove('hidden');
+    }
+}
+
 function handlePacmanDeath() {
     lives--;
     updateLivesDisplay();
     if (lives <= 0) {
         gameState = 'GAME_OVER';
+        document.querySelector('#game-over h2').textContent = 'SYSTEM FAILURE';
+        document.querySelector('#game-over p').textContent = 'RECOVERY SEQUENCE AVAILABLE';
         gameOverScreen.classList.remove('hidden');
         overlay.classList.remove('hidden');
     } else {
@@ -273,6 +350,7 @@ function handlePacmanDeath() {
         ghosts.forEach(g => g.reset());
     }
 }
+
 
 function draw() {
     ctx.clearRect(0, 0, canvas.width, canvas.height);

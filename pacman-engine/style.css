@@ -250,4 +250,94 @@ footer {
     color: var(--neon-red);
     text-shadow: 0 0 10px var(--neon-red);
     position: relative;
+    animation: glitch 1s infinite;
+}
+
+@keyframes glitch {
+    0% {
+        transform: translate(0);
+        text-shadow: 0 0 10px var(--neon-red);
+    }
+
+    20% {
+        transform: translate(-2px, 2px);
+        text-shadow: 2px 0 var(--neon-cyan), -2px 0 var(--neon-pink);
+    }
+
+    40% {
+        transform: translate(-2px, -2px);
+        text-shadow: -2px 0 var(--neon-cyan), 2px 0 var(--neon-pink);
+    }
+
+    60% {
+        transform: translate(2px, 2px);
+        text-shadow: 2px 0 var(--neon-cyan), -2px 0 var(--neon-pink);
+    }
+
+    80% {
+        transform: translate(2px, -2px);
+        text-shadow: -2px 0 var(--neon-cyan), 2px 0 var(--neon-pink);
+    }
+
+    100% {
+        transform: translate(0);
+        text-shadow: 0 0 10px var(--neon-red);
+    }
+}
+
+#game-over h2:contains("MISSION COMPLETE") {
+    color: var(--neon-green);
+    text-shadow: 0 0 15px var(--neon-green);
+    animation: success-glow 2s infinite alternate;
+}
+
+@keyframes success-glow {
+    from {
+        text-shadow: 0 0 10px var(--neon-green), 0 0 20px var(--neon-green);
+    }
+
+    to {
+        text-shadow: 0 0 20px var(--neon-green), 0 0 40px var(--neon-green);
+        transform: scale(1.05);
+    }
+}
+
+.stat-value#difficulty-val {
+    animation: color-shift 5s infinite;
+}
+
+@keyframes color-shift {
+    0% {
+        color: var(--neon-cyan);
+    }
+
+    33% {
+        color: var(--neon-pink);
+    }
+
+    66% {
+        color: var(--neon-yellow);
+    }
+
+    100% {
+        color: var(--neon-cyan);
+    }
+}
+
+/* Scrollbar for narrow viewports */
+::-webkit-scrollbar {
+    width: 6px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--bg-dark);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--glass-border);
+    border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--neon-cyan);
 }
