@@ -53,6 +53,8 @@ function post(url, data, headers) {
 async function run() {
     try {
         console.log(`Fetching contributions for ${username}...`);
+        console.log(`Token available: ${token ? 'YES (length: ' + token.length + ')' : 'NO'}`);
+
         const result = await post('https://api.github.com/graphql', {
             query,
             variables: { username }
@@ -61,21 +63,33 @@ async function run() {
         });
 
         if (result.errors) {
-            console.error('GraphQL Errors:', result.errors);
+            console.error('GraphQL Errors:', JSON.stringify(result.errors, null, 2));
+            process.exit(1);
+        }
+
+        if (!result.data) {
+            console.error('No data in response. Full response:', JSON.stringify(result, null, 2));
+            process.exit(1);
+        }
+
+        if (!result.data.user) {
+            console.error(`User '${username}' not found. Response:`, JSON.stringify(result.data, null, 2));
             process.exit(1);
         }
 
         const calendar = result.data.user.contributionsCollection.contributionCalendar;
         const weeks = calendar.weeks;
+        console.log(`Total contributions: ${calendar.totalContributions}`);
 
         console.log('Generating SVG...');
         const svg = generateSVG(weeks);
 
-        if (!fs.existsSync('dist')) fs.mkdirSync('dist');
+        if (!fs.existsSync('dist')) fs.mkdirSync('dist', { recursive: true });
         fs.writeFileSync(outputPath, svg);
-        console.log(`SVG generated at ${outputPath}`);
+        console.log(`SVG generated successfully at ${outputPath}`);
     } catch (err) {
-        console.error('Error:', err);
+        console.error('Error:', err.message || err);
+        console.error('Stack:', err.stack);
         process.exit(1);
     }
 }
