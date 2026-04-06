@@ -126,7 +126,7 @@ I architect **cloud-native solutions** that are secure by design and scalable by
 🏭 **Ashok Leyland, Hosur** — *Project Member*
 🗓 Jul 2024 – Jan 2025
 ➡️ Worked on Automatic Attendance Monitoring System
-➡️ Contributed to system design, implementation, and testing
+➡️ Contributed to system design, implementation, and testing.
 
 ---
 
