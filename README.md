@@ -67,7 +67,7 @@ I architect **cloud-native solutions** that are secure by design and scalable by
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,java,kotlin,python,cpp,bash" />
 </p>
 
-#### 🤖 Machine Learning & AI Ecosystem
+#### 🤖 Machine Learning and AI Ecosystem
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
