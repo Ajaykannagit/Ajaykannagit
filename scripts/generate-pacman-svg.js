@@ -21,7 +21,6 @@ query($username:String!) {
             color
             contributionCount
             date
-            level
           }
         }
       }
@@ -104,7 +103,8 @@ function generateSVG(weeks) {
     const days = [];
     weeks.forEach((week, x) => {
         week.contributionDays.forEach((day, y) => {
-            days.push({ x, y, level: day.level, color: day.color });
+            const lvl = day.contributionCount === 0 ? 'NONE' : 'ACTIVE';
+            days.push({ x, y, level: lvl, color: day.color });
         });
     });
 
